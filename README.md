@@ -1,1 +1,3 @@
-# CYRIL_8922599
+My name: CYRIL
+Project Title: Lab 3
+Student ID: 8922599
